@@ -1,0 +1,3 @@
+New Movie::5/17/2020::G::New Director::Newer Studio::It was interesting and new
+Sad Movie::12/19/1998::PG-13::Director2::Sad Movie Studios::I cried. It was really sad :(
+Funny Movie::4/2/2018::PG-13::Funny Director::Funny Studio::I laughed!
